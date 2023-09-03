@@ -7,12 +7,7 @@ This project aims to improve the accuracy and efficiency of brain tumor detectio
 - [Project Goals](#project-goals)
 - [Getting Started](#getting-started)
 - [Data Preparation](#data-preparation)
-- [CNN Architecture](#cnn-architecture)
-- [Hyperparameter Tuning](#hyperparameter-tuning)
-- [Preprocessing Techniques](#preprocessing-techniques)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Goals
 - Automate the detection of brain tumors in MRI scans.
