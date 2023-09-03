@@ -1,0 +1,2 @@
+# Enhancing-Brain-Tumor-Detection-with-CNN-and-Parallel-Processing-in-Medical-Imaging
+This project aims to develop an accurate and efficient brain tumor detection system using Convolutional Neural Networks (CNNs) and parallel processing techniques. Early detection of brain tumors in MRI scans is crucial for improving patient outcomes, and our solution leverages state-of-the-art deep learning methods to achieve this goal.
